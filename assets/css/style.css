@@ -1025,7 +1025,7 @@ section {
 --------------------------------------------------------------*/
 .contact .info {
   width: 100%;
-  background: #fff;
+  
 }
 
 .contact .info i {
@@ -1071,7 +1071,6 @@ section {
 
 .contact .php-email-form {
   width: 100%;
-  background: #fff;
 }
 
 .contact .php-email-form .form-group {
@@ -1226,4 +1225,15 @@ section {
 
 #footer .credits {
   font-size: 13px;
+}
+
+/*--------------------------------------------------------------
+# Darkmode js
+--------------------------------------------------------------*/
+
+.darkmode-toggle {
+  z-index: 7;
+  right: 8px !important;
+  top: 70px !important;
+  border: none !important;
 }
